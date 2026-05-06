@@ -14,7 +14,7 @@ We're a small, focused team that believes **base protection shouldn't cost money
 ## 🛡️ What we build
 
 - **AuthenticateMe Verification** — One-click, OAuth-based Discord verification with deep threat detection (VPN, alt-account, disposable email, anti-detect browser, fingerprinting, and more)
-- **The AuthenticateMe Dashboard** — Web-based configuration UI used by tens of thousands of server owners
+- **AuthenticateMe Dashboard** — Web-based configuration UI used by tens of thousands of server owners
 - **Internal infrastructure** — High-availability sharded clusters, threat-intelligence pipelines, and the APIs that keep all of the above running 24/7
 
 ## 🔒 About our repositories
